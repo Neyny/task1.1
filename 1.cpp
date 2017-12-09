@@ -7,9 +7,6 @@ int main() {
 	if (a > 0) {
 		a = a + 1;
 	}
-	else {
-		a = a + 0;
-	}
 	cout << "Byde " << a << endl;
 	system("pause");
 }
